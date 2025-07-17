@@ -1,0 +1,44 @@
+TASK
+===================
+1. Đọc code Arduino để hiểu nguyên lí code , tìm chân config và chân comm data
+
+2. chuyển từ board Arduino Samsung -> mega 2560 
+3. coi Linux
+====================
+
+date: 15/7/2025
+
+TASK: 
+- li thuyet i2s, mapping với conf của code de xac định nguyên lí 
+
+
+found TFT ID = 0xD3D3
+ID = 0x9486
+Clarity, build 04102215
+Sampling rate 48000
+Data Fraction  1/3
+Press : 0
+Write ADDR=3, MSB=0, LSB=3
+Read ADDR= 3
+Bytes Received: 4
+0 - 0 - 0 - 3 - 
+Write ADDR=5, MSB=0, LSB=2
+Read ADDR= 5
+Bytes Received: 4
+0 - 0 - 0 - 2 - 
+Read ADDR= 6
+Bytes Received: 4
+0 - 0 - 1 - 21 - 
+Write ADDR=6, MSB=6, LSB=65
+Read ADDR= 6
+Bytes Received: 4
+0 - 0 - 6 - 41 - 
+Write ADDR=15, MSB=0, LSB=0
+Read ADDR= 15
+Bytes Received: 4
+0 - 0 - 0 - 0 - 
+SSC Tx enabled
+SSC Rx enabled
+OpMode : 1
+Press : 1
+OpMode : 1
